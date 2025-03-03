@@ -1,1 +1,0 @@
-# KPO2sem_lab2
